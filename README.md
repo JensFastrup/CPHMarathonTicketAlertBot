@@ -1,5 +1,6 @@
 # CPHMarathonTicketAlertBot
 All tickets are sold out for Copenhagen Marathon 2025. There is no system notification system for resale of tickets. I made a bot that checks the page and notifies through Discord. 
+Website: https://secure.onreg.com/onreg2/bibexchange/?eventid=6591
 
 Pull repo and do the following.
 
