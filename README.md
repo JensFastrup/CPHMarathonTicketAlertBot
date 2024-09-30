@@ -42,8 +42,8 @@ Pull repo and do the following.
       - CHANNEL_ID ={YOUR CHANNEL ID}
 
 3 . Run script by either
-    python cphmarathonticketalertbotdisc.py
-    pythonw cphmarathonticketalertbotdisc.py
+    python TicketAlertBot.py
+    pythonw TicketAlertBot.py
 
 ## Considerations
 Set this up on a virtual machine on a virtual private server, for it to run 24/7 - never miss a chance for a ticket :) 
