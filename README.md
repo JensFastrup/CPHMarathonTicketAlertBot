@@ -33,17 +33,17 @@ Pull repo and do the following.
       Thorugh enabling developer mode in discord, through user settings, get the channel ID, by the text-channel you want to use. From here it is just running the code. 
        
 ### Code
-
 1. pip install requests beautifulsoup4 discord.py python-dotenv
 
 
 2. create .env file in root folder with: 
-      - DISCORD_TOKEN = {YOUR TOKEN}
-      - CHANNEL_ID ={YOUR CHANNEL ID}
+  - DISCORD_TOKEN = {YOUR TOKEN}
+  - CHANNEL_ID ={YOUR CHANNEL ID}
 
-3 . Run script by either
-    python TicketAlertBot.py
-    pythonw TicketAlertBot.py
+3 . Run script in terminal/cmd:
+  - python TicketAlertBot.py
+
+(potentially as *pythonw* as a background process)
 
 ## Considerations
 Set this up on a virtual machine on a virtual private server, for it to run 24/7 - never miss a chance for a ticket :) 
